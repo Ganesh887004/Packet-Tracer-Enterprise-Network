@@ -1,0 +1,29 @@
+## Project Overview
+Designed and simulated a Hotel Management Network using Cisco Packet Tracer.
+
+## Network Segmentation
+- VLAN 10 – Reception
+- VLAN 20 – Accounts
+- VLAN 30 – Administration
+- VLAN 40 – Restaurant
+- VLAN 50 – Guest Wi-Fi
+- VLAN 60 – Security
+- VLAN 70 – Servers
+- VLAN 99 – Management
+
+## Technologies Used
+- VLAN and Inter-VLAN Routing
+- Layer 3 Switching
+- DHCP and DHCP Relay
+- DNS
+- Extended ACL
+- Guest Network Security
+
+## Security Implementation
+Configured Extended ACLs to restrict Guest VLAN access to internal department networks while allowing required DNS and DHCP services.
+
+## Tool
+Cisco Packet Tracer
+
+## Project File
+Hotel Management Network Packet Tracer simulation .(pkt)
