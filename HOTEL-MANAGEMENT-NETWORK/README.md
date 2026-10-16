@@ -14,9 +14,6 @@ Designed and simulated a Hotel Management Network using Cisco Packet Tracer. The
 - Switching and Routing
 - Network Connectivity Testing
 
-## Topology
-![Hotel Management Network Topology](topology.png)
-
 ## Project File
 Open `HOTEL MANAGEMENT NETWORK.pkt` using Cisco Packet Tracer to explore the network topology and configuration.
 
