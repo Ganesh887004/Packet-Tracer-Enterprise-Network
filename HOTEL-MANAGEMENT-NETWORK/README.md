@@ -22,6 +22,3 @@ Open `HOTEL MANAGEMENT NETWORK.pkt` using Cisco Packet Tracer to explore the net
 
 ## Verification
 Connectivity can be tested using the `ping` command and relevant device configuration commands.
-
-## Author
-Ganesh Kumar A.
